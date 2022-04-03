@@ -14,7 +14,7 @@
 
 ## 科技动态
 
-1、[谷歌推出新的Chrome操作系统启动器——高仿了Windows的开始菜单](https://gizmodo.com/google-new-chrome-os-launcher-has-serious-windows-vibes-1848726234)
+1、[谷歌推出新的Chrome操作系统启动器——高仿了Windows的开始菜单](https://gizmodo.com/google-new-chrome-os-launcher-has-serious-windows-vibes-1848726234)（英文）
 
 ![](http://weekly.panshenlian.com/_media/images/2022/issue-1/keji-001.jpg)
 
@@ -26,7 +26,7 @@
 
 ## 文章
 
-1、[俄乌冲突涉及开源领域事件](https://mp.weixin.qq.com/s/V_UfsEapfM0Hj2yYFpeaCg)
+1、[俄乌冲突涉及开源领域事件](https://mp.weixin.qq.com/s/V_UfsEapfM0Hj2yYFpeaCg)（中文）
 
 工信部电子知识产权中心最近根据 “OSC开源社区” 公众号以及互联网相关信息，梳理了目前俄乌冲突涉及开源领域事件。至少涉及：
 - Jolla公司，移动操作系统Sailfish OS制造商
