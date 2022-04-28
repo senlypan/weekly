@@ -605,7 +605,7 @@ Opuses 甜点实际上是由覆盖着这些石膏状蛋白酥皮的冰淇淋组�
 
 微信搜索“潘潘和他的朋友们”或者扫描二维码，即可订阅。
 
-![](http://www.panshenlian.com/images/post/wechat/v1.jpg)
+![](http://www.panshenlian.com/images/post/wechat/v2.jpg)
 
 本刊开源（GitHub: [senlypan/weekly](https://github.com/senlypan/weekly)），欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/senlypan/weekly/issues) 。
 

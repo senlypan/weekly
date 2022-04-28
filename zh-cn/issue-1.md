@@ -228,7 +228,7 @@ Progress is impossible without change; and those who cannot change their minds c
 
 微信搜索“潘潘和他的朋友们”或者扫描二维码，即可订阅。
 
-![](http://www.panshenlian.com/images/post/wechat/v1.jpg)
+![](http://www.panshenlian.com/images/post/wechat/v2.jpg)
 
 本刊开源（GitHub: [senlypan/weekly](https://github.com/senlypan/weekly)），欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/senlypan/weekly/issues) 。
 
