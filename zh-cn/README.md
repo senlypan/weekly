@@ -6,6 +6,8 @@
 
 # 概述
 
+![访问统计](https://visitor-badge.glitch.me/badge?page_id=senlypan.weekly.readme&left_color=blue&right_color=red)
+
 无聊科技正经事【周刊】目前支持 `中文` 语言阅读。
 
 # 开源
