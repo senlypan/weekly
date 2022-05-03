@@ -425,7 +425,7 @@ Geomorphological Landscapes 是一个收欢迎的 Ins 帐户，它收集了很�
 
 微信搜索“潘潘和他的朋友们”或者扫描二维码，即可订阅。
 
-![](http://www.panshenlian.com/images/post/wechat/v1.jpg)
+![](http://www.panshenlian.com/images/post/wechat/v2.jpg)
 
 
 
