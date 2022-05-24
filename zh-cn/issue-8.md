@@ -6,6 +6,8 @@
 
 这里记录每周值得分享的科技内容，周三发布。
 
+![访问统计](https://visitor-badge.glitch.me/badge?page_id=senlypan.weekly.issue-8&left_color=blue&right_color=red)
+
 本刊开源（GitHub: [senlypan/weekly](https://github.com/senlypan/weekly)），欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/senlypan/weekly/issues) 。
 
 ## 封面图
