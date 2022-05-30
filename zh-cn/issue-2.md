@@ -419,13 +419,13 @@ Geomorphological Landscapes 是一个收欢迎的 Ins 帐户，它收集了很�
 
 这里记录每周值得分享的科技内容，周三发布，同步更新在
 
-- [潘深练个人网站](http://www.panshenlian.com/weekly)
+- [潘深练个人网站](https://www.panshenlian.com/weekly)
 - 微信公众号：潘潘和他的朋友们
 -  [竹白](https://wednesday.zhubai.love/) （支持邮箱订阅、小程序订阅）
 
 微信搜索“潘潘和他的朋友们”或者扫描二维码，即可订阅。
 
-![](http://www.panshenlian.com/images/post/wechat/v2.jpg)
+![](https://www.panshenlian.com/images/post/wechat/v2.jpg)
 
 
 

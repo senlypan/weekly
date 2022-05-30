@@ -175,7 +175,7 @@ http://feeds.feedburner.com/panshenlian/DxHj
 
 （正式 Feed，大陆地区被屏蔽）
 
-http://www.panshenlian.com/atom.xml
+https://www.panshenlian.com/atom.xml
 
 （ 大陆 Feed，内地正常访问）
 
@@ -338,7 +338,7 @@ Speech2Face 是由麻省理工学院的科学家开发的一种先进的 **神�
 
 这里记录每周值得分享的科技内容，周三发布，首发在
 
-- [潘深练个人网站](http://www.panshenlian.com/weekly)
+- [潘深练个人网站](https://www.panshenlian.com/weekly)
 - 微信公众号：潘潘和他的朋友们
 
 本刊开源（GitHub: [senlypan/weekly](https://github.com/senlypan/weekly)），欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/senlypan/weekly/issues) 。

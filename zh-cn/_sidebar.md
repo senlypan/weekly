@@ -18,4 +18,4 @@
 
 ---
 
-<a href="http://www.panshenlian.com/" target="_blank" rel="noopener" title="潘深练的个人网站"><img src="/_media/panshenlian.png">潘深练的个人网站</a>
+<a href="https://www.panshenlian.com/" target="_blank" rel="noopener" title="潘深练的个人网站"><img src="/_media/panshenlian.png">潘深练的个人网站</a>

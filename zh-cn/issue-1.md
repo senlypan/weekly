@@ -202,9 +202,9 @@ LCEVC（低复杂度增强视频编码）的工作原理是使用任何现有编
 
 Mike Crittenden 最近发表了他4月份也就是第12周的计划，其中包括他之前制定的计划 [《My 40 before 40》](https://critter.blog/2022/02/28/40-before-40/) 中的6项。
 
-![37岁前的37件事](http://www.panshenlian.com/images/post/live/37/title.jpg)
+![37岁前的37件事](https://www.panshenlian.com/images/post/live/37/title.jpg)
 
-对我的震撼很大，平时我基本都是制定年度计划，基本没有想过计划一个5年或10年的计划，因为时间拉长使得我们的目标可以变得更远，很有意思，所以我也罗列了一份[《37岁前的37件事》](http://www.panshenlian.com/2022/03/02/live-002-my-37-before-37/)。
+对我的震撼很大，平时我基本都是制定年度计划，基本没有想过计划一个5年或10年的计划，因为时间拉长使得我们的目标可以变得更远，很有意思，所以我也罗列了一份[《37岁前的37件事》](https://www.panshenlian.com/2022/03/02/live-002-my-37-before-37/)。
 
 那么问题来了，你的计划呢？
 
@@ -226,11 +226,11 @@ Progress is impossible without change; and those who cannot change their minds c
 
 ## 订阅
 
-这里记录每周值得分享的科技内容，周三发布，同步更新在[潘深练个人网站](http://www.panshenlian.com/weekly)和微信公众号：潘潘和他的朋友们。
+这里记录每周值得分享的科技内容，周三发布，同步更新在[潘深练个人网站](https://www.panshenlian.com/weekly)和微信公众号：潘潘和他的朋友们。
 
 微信搜索“潘潘和他的朋友们”或者扫描二维码，即可订阅。
 
-![](http://www.panshenlian.com/images/post/wechat/v2.jpg)
+![](https://www.panshenlian.com/images/post/wechat/v2.jpg)
 
 本刊开源（GitHub: [senlypan/weekly](https://github.com/senlypan/weekly)），欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/senlypan/weekly/issues) 。
 
