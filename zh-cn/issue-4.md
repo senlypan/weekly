@@ -594,7 +594,7 @@ Netlife Bergen 的首席技术官 Nils Norman Haukås 提醒我们不要过分�
 这里记录每周值得分享的科技内容，周三发布，首发在
 
 - [潘深练个人网站](https://www.panshenlian.com/weekly)
-- 微信公众号：潘潘和他的朋友们
+- 微信公众号：潘大晚
 
 本刊开源（GitHub: [senlypan/weekly](https://github.com/senlypan/weekly)），欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/senlypan/weekly/issues) 。
 

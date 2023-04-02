@@ -226,9 +226,9 @@ Progress is impossible without change; and those who cannot change their minds c
 
 ## 订阅
 
-这里记录每周值得分享的科技内容，周三发布，同步更新在[潘深练个人网站](https://www.panshenlian.com/weekly)和微信公众号：潘潘和他的朋友们。
+这里记录每周值得分享的科技内容，周三发布，同步更新在[潘深练个人网站](https://www.panshenlian.com/weekly)和微信公众号潘大晚们。
 
-微信搜索“潘潘和他的朋友们”或者扫描二维码，即可订阅。
+微信搜索“潘大晚”或者扫描二维码，即可订阅。
 
 ![](https://www.panshenlian.com/images/post/wechat/v2.jpg)
 
