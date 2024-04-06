@@ -97,7 +97,7 @@ Pexels . Norbert Kundrak . ([via](https://www.pexels.com/zh-cn/photo/3625023/))
 每周一刊，周三发布，首发在
 
 - [潘深练个人网站](https://www.panshenlian.com)
-- 微信公众号：潘潘和他的朋友们
+- 微信公众号：第一次当爸爸吖
 
 本刊开源，欢迎投稿，仓库在
 
